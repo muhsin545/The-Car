@@ -1,0 +1,19 @@
+nav{
+    border-bottom: 1px solid;
+}
+.navbar-brand{
+    font-size: 35px;
+}
+.navbarRoute{
+    text-decoration: none;
+    margin: 7px 7px;
+}
+.nav-item{
+    color: rgb(220,53,69);
+}
+.webName{
+font-family: 'Abril Fatface', cursive;
+}
+.NavBarBG{
+background-image: linear-gradient(to right, rgb(0, 0, 0),rgba(85, 11, 63) );
+}

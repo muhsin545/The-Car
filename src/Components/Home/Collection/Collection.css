@@ -1,0 +1,15 @@
+
+.img{
+    position: relative;
+}
+.button{
+    position: absolute;
+    top: 2%;
+    left: 20px;
+    right: 10%;
+   opacity: 0.7;
+   color: #ffffff;
+}
+.Border{
+    border: 5px solid #c0bfbf;
+}

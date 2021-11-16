@@ -1,0 +1,16 @@
+.blogDiv:hover{
+    box-shadow:10px 10px 200px 10px rgb(201, 192, 192) ;
+    transition:  box-shadow 0.3s;
+}
+ div{
+  font-family: 'Abril Fatface', cursive;
+}
+.slick-dots{
+  margin-bottom: 80px;
+}
+.slick-next:before, .slick-prev:before{
+      font-size: 50px;
+    line-height: 1;
+    opacity: .75;
+    color: black;
+}
